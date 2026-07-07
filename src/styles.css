@@ -399,7 +399,7 @@ input:focus-visible {
 }
 
 .hero-bg {
-  background-image: url("../assets/hero-photo2.png");
+  background-image: url("/assets/hero-photo2.png");
   background-position: center;
   background-size: cover;
 }
@@ -1282,7 +1282,7 @@ input:focus-visible {
   }
 
   .hero-bg {
-    background-image: url("../assets/hero-tablet-image2.png");
+    background-image: url("/assets/hero-tablet-image2.png");
   }
 
   .hero-copy h1 {
@@ -1704,7 +1704,7 @@ input:focus-visible {
   }
 
   .hero-bg {
-    background-image: url("../assets/hero-photo2.png");
+    background-image: url("/assets/hero-photo2.png");
   }
 
   .hero-copy {
