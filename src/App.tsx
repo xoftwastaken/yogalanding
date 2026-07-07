@@ -2,7 +2,7 @@ import { ChangeEvent, FormEvent, useEffect, useMemo, useState } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
-const A = `/assets/`;
+const A = `${import.meta.env.BASE_URL}assets/`;
 
 const assets = {
   aboutGroup: `${A}about-group.png`,
